@@ -1,0 +1,19 @@
+{
+  "name": "minesweeper",
+  "authors": [
+    "Jeroen van der Laan <jvdlaan@unet.nl>"
+  ],
+  "description": "Minesweeper game in javascript",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

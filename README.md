@@ -1,9 +1,16 @@
 #Minesweeper js
 
-This is a minesweeper game where you can set:
+This is a minesweeper game written in p5.js.
 
-- The grid
-- The number of mines on the grid
+Have fun with this piece of hobby material.
 
-and play it...
+Installation
+------------
+This package needs `bower` for installation to install the p5js framework.
+
+use 
+``
+bower install
+``
+to make sure everything is installed properly
 
