@@ -1,6 +1,6 @@
 #Minesweeper js
 
-This is a minesweeper game written in p5.js.
+This is a minesweeper game written in p5.js. Since minesweeper does not use the loop actively. The reason behind using P5.js is a bit unnecessary. But I thought it was fun.
 
 Have fun with this piece of hobby material.
 
